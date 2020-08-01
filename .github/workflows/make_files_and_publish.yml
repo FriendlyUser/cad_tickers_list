@@ -7,9 +7,7 @@ env:
 on:
   push:
     paths-ignore: # Don't trigger on files that are updated by the CI
-    - "**.csv"
-    - "*.csv"
-    - "scripts/*.csv"
+    - "static/*.csv"
     branches:
       - main
     schedule:
