@@ -1,4 +1,4 @@
-name: github pages
+name: Make Script
 
 on:
   push:
@@ -10,12 +10,12 @@ on:
       - master
 
 jobs:
-  build-deploy:
+  update_csvs:
     runs-on: ubuntu-18.04
     steps:
     - uses: actions/checkout@master
     
-    - name: Setup Python
+    - name: Setup Python And make tickers
       uses: actions/setup-python@v2
       with:
         python-version: '3.7'
@@ -25,6 +25,8 @@ jobs:
     
     - name: Commit Changes
       run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action $date"
         git add static --force
         git commit -m "Adding new files"
         git push

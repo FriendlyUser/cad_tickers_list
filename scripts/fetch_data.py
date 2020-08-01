@@ -1,10 +1,10 @@
 from cad_tickers.exchanges.tsx import dl_tsx_xlsx, add_descriptions_to_df_pp
 from datetime import datetime
-folder = 'static'
+currentMonth = datetime.now().month
+folder = f'static/{currentMonth}'
 df = dl_tsx_xlsx()
 # df = add_descriptions_to_df(df)
 df = add_descriptions_to_df_pp(df)
-currentMonth = datetime.now().month
 currentYear = datetime.now().year
 tsx_name = f"{folder}/tsx_{currentMonth}_{currentYear}.csv"
 df.to_csv(tsx_name)
