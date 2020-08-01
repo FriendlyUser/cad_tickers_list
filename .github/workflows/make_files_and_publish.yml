@@ -10,6 +10,7 @@ on:
     - "static/*.csv"
     branches:
       - main
+      - master
     schedule:
       - cron:  '8 6 2 * *'
 
