@@ -41,7 +41,7 @@ jobs:
         node-version: '12'
         check-latest: true
     - run: npm install
-    - run: python make_md_file.py
+    - run: python scripts/make_md_file.py
     - run: npm run build
     - run: npm run generate
 
