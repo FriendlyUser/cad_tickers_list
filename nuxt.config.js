@@ -1,6 +1,9 @@
 import theme from '@nuxt/content-theme-docs'
 
 export default theme({
+  router: { 
+    base: '/cad_tickers_list/' 
+  },
   env: {
     GITHUB_TOKEN: process.env.GITHUB_TOKEN
   },

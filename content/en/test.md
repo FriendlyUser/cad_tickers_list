@@ -1,7 +1,7 @@
 ---
-title: Introduction
+title: Testing
 description: 'Empower your NuxtJS application with @nuxt/content module.'
-position: 1
+position: 2
 category: Getting started
 version: 1.4
 fullscreen: false

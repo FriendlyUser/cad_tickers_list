@@ -1,0 +1,17 @@
+---
+title: {{ meta.title }}
+description: {{ meta.description }}
+position: {{ meta.position }}
+category: {{ meta.category }}
+version: {{ meta.version }}
+fullscreen: false
+---
+
+## CSE Tickers
+
+{{ cse_tickers | safe }}
+
+
+## TSX and TSXV Tickers
+
+{{ tsx_tickers | safe }}

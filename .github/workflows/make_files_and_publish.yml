@@ -1,5 +1,9 @@
 name: Make Script
 
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 on:
   push:
     paths-ignore: # Don't trigger on files that are updated by the CI
@@ -7,7 +11,7 @@ on:
     - "*.csv"
     - "scripts/*.csv"
     branches:
-      - master
+      - main
 
 jobs:
   update_csvs:
@@ -20,7 +24,7 @@ jobs:
       with:
         python-version: '3.7'
     - run: |
-        pip3 install cad-tickers
+        pip3 install -r scripts/requirements.txt
         python scripts/fetch_data.py
     
     - name: Commit Changes
@@ -36,7 +40,7 @@ jobs:
         node-version: '12'
         check-latest: true
     - run: npm install
-    - run: ls static
+    - run: python convert_df_to_json.py
     - run: npm run build
     - run: npm run generate
 
