@@ -3,12 +3,7 @@ name: github pages
 on:
   push:
     paths: # Trigger when csv is updated
-    - "**.csv"
-    - "*.csv"
-    - "static/**/.csv"
-    - "static/8/*"
-    - "static"
-    - "scripts/*.csv"
+      - "**/*.csv"
     branches:
       - master
 
@@ -24,8 +19,9 @@ jobs:
     - run: npm run build
     - run: npm run generate
 
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@3.5.9
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./dist
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages # The branch the action should deploy to.
+        FOLDER: dist # The folder the action should deploy.
