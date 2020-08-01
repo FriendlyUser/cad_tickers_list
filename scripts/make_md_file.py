@@ -26,10 +26,10 @@ meta = dict(
 )
 
 options=dict(meta=meta, cse_tickers=cse_html, tsx_tickers=tsx_html)
-with open("tickers.jinja2") as file_:
+with open("scripts/tickers.jinja2") as file_:
   template = Template(file_.read())
 tickers = template.render(**options)
 
 md_file = f'content/en/{currentMonth}_{currentYear}.md'
-with open(md_file, 'w') as file_:
+with open(md_file, 'w', errors='ignore') as file_:
   file_.write(tickers)
