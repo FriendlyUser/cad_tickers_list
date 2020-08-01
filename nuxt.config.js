@@ -22,5 +22,6 @@ export default theme({
     defaultLocale: 'en'
   },
   buildModules: [
+    '@nuxtjs/pwa'
   ]
 })
