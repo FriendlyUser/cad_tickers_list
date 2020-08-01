@@ -12,6 +12,8 @@ on:
     - "scripts/*.csv"
     branches:
       - main
+    schedule:
+      - cron:  '8 6 2 * *'
 
 jobs:
   update_csvs:
