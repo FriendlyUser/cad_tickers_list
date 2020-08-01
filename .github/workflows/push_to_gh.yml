@@ -5,6 +5,7 @@ on:
     paths: # Trigger when csv is updated
     - "**.csv"
     - "*.csv"
+    - "static/**/.csv"
     - "scripts/*.csv"
     branches:
       - master
