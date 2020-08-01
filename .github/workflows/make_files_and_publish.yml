@@ -42,7 +42,6 @@ jobs:
         node-version: '12'
         check-latest: true
     - run: npm install
-    - run: 
     - run: npm run build
     - run: npm run generate
 
