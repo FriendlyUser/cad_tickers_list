@@ -1,0 +1,31 @@
+name: github pages
+
+on:
+  push:
+    paths-ignore: # Don't trigger on files that are updated by the CI
+    - "**.csv"
+    - "*.csv"
+    - "scripts/*.csv"
+    branches:
+      - master
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@master
+    
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.7'
+    - run: |
+        pip3 install cad-tickers
+        python scripts/fetch_data.py
+    
+    - name: Commit Changes
+      run: |
+        git add static --force
+        git commit -m "Adding new files"
+        git push
+    # this will trigger the node pipeline
