@@ -1,0 +1,24 @@
+{
+  "name": "cad_tickers_list",
+  "version": "1.0.0",
+  "description": "Monthly updated list of canadian stock tickers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "keywords": [
+    "nuxtjs",
+    "cad-tickers",
+    "tsx",
+    "cse"
+  ],
+  "author": "David Li",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxt/content-theme-docs": "^0.1.3",
+    "nuxt": "^2.14.0"
+  }
+}
