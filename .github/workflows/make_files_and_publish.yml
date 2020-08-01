@@ -31,7 +31,7 @@ jobs:
         git commit -m "Adding new files"
         git push
 
-    - uses: actions/setup-node@v2
+    - uses: actions/setup-node@v2-beta
       with:
         node-version: '12'
         check-latest: true
