@@ -27,7 +27,8 @@ jobs:
     - run: |
         pip3 install -r scripts/requirements.txt
         python scripts/fetch_data.py
-    
+        python scripts/make_md_file.py
+
     - name: Commit Changes
       run: |
         git config --local user.email "action@github.com"
@@ -41,7 +42,7 @@ jobs:
         node-version: '12'
         check-latest: true
     - run: npm install
-    - run: python scripts/make_md_file.py
+    - run: 
     - run: npm run build
     - run: npm run generate
 
