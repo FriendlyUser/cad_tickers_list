@@ -6,6 +6,8 @@ on:
     - "**.csv"
     - "*.csv"
     - "static/**/.csv"
+    - "static/8/*"
+    - "static"
     - "scripts/*.csv"
     branches:
       - master
