@@ -1,7 +1,10 @@
 from cad_tickers.exchanges.tsx import dl_tsx_xlsx, add_descriptions_to_df_pp
 from datetime import datetime
+import pathlib
 currentMonth = datetime.now().month
 folder = f'static/{currentMonth}'
+pathlib.Path(folder).mkdir(parents=True, exist_ok=True)
+
 df = dl_tsx_xlsx()
 # df = add_descriptions_to_df(df)
 df = add_descriptions_to_df_pp(df)
