@@ -30,4 +30,20 @@ jobs:
         git add static --force
         git commit -m "Adding new files"
         git push
+
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '12'
+        check-latest: true
+    - run: npm install
+    - run: ls static
+    - run: npm run build
+    - run: npm run generate
+
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@3.5.9
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages # The branch the action should deploy to.
+        FOLDER: dist # The folder the action should deploy.
     # this will trigger the node pipeline
