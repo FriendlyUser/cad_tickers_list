@@ -3,16 +3,6 @@ import dash_table
 import dash_html_components as html
 import pandas as pd
 
-# 9/13/2020
-# KUU MIGHT BEINSOVLENT
-# Wait on BYL
-# VIS.V if it makes 334,250 as projected in Q4
-# PAI,Predictiv AI Inc.
-# RW,RenoWorks Software Inc
-# DFT,Dimension Five Technologies Inc
-# KUU,Kuuhubb Inc
-# BYL,Baylin Technologies Inc
-# CMC,Cielo Waste Solutions Inc
 # ['symbol', 'name', 'price', 'priceChange', 'percentChange',
 #  'exchangeName', 'exShortName', 'exchangeCode', 'marketPlace', 'sector',
 #  'industry', 'volume', 'openPrice', 'dayHigh', 'dayLow', 'MarketCap',

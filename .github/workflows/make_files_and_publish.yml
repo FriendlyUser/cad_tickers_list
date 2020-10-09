@@ -1,18 +1,17 @@
 name: Make Script
 
-
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 on:
   push:
     paths-ignore: # Don't trigger on files that are updated by the CI
-    - "static/*.csv"
+      - "static/*.csv"
     branches:
       - main
       - master
     schedule:
-      - cron:  '8 6 2 * *'
+      - cron:  '8 8 * * *'
 
 jobs:
   update_csvs:
