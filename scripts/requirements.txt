@@ -1,2 +1,2 @@
-cad-tickers >= 0.2.4
+cad-tickers >= 1.3.0
 Jinja2 >= 2.11.2

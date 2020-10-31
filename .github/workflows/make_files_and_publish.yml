@@ -10,8 +10,8 @@ on:
     branches:
       - main
       - master
-    schedule:
-      - cron:  '8 8 * * *'
+  schedule:
+    - cron:  '8 8 * * *'
 
 jobs:
   update_csvs:
