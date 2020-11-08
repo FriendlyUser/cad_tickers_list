@@ -1,6 +1,4 @@
-import dash
-import dash_table
-import dash_html_components as html
+import streamlit as st
 import pandas as pd
 
 # ['symbol', 'name', 'price', 'priceChange', 'percentChange',
@@ -16,7 +14,7 @@ import pandas as pd
 #  'priceToBook', 'priceToCashFlow', 'returnOnEquity', 'returnOnAssets',
 #  'day21MovingAvg', 'day50MovingAvg', 'day200MovingAvg', 'dividend3Years',
 #  'dividend5Years', 'datatype', '__typename']
-tsx_df = pd.read_csv("static/latest/stocks.csv")
+tsx_df = pd.read_csv("stocks.csv")
 # Remove duplicates by table
 tsx_df = tsx_df[
     [
@@ -88,26 +86,5 @@ industry = [
     "Waste Management",
     "Healthcare Plans",
 ]
-app = dash.Dash(__name__)
 
-app.layout = html.Div(
-    children=[
-        dash_table.DataTable(
-            id="table",
-            style_cell={
-                "whiteSpace": "normal",
-                "height": "auto",
-            },
-            editable=True,
-            filter_action="native",
-            sort_action="native",
-            sort_mode="multi",
-            columns=[{"name": i, "id": i} for i in tsx_df.columns],
-            data=tsx_df.to_dict("records"),
-            page_size=100,
-        )
-    ]
-)
-
-if __name__ == "__main__":
-    app.run_server(debug=True)
+st.write(tsx_df)
