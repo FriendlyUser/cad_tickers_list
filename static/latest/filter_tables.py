@@ -14,7 +14,9 @@ import pandas as pd
 #  'priceToBook', 'priceToCashFlow', 'returnOnEquity', 'returnOnAssets',
 #  'day21MovingAvg', 'day50MovingAvg', 'day200MovingAvg', 'dividend3Years',
 #  'dividend5Years', 'datatype', '__typename']
-tsx_df = pd.read_csv("stocks.csv")
+tsx_df = pd.read_csv(
+    "https://raw.githubusercontent.com/FriendlyUser/cad_tickers_list/main/static/latest/stocks.csv"
+)
 # Remove duplicates by table
 tsx_df = tsx_df[
     [
