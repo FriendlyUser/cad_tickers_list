@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 
+st.set_page_config(layout="wide")
 # ['symbol', 'name', 'price', 'priceChange', 'percentChange',
 #  'exchangeName', 'exShortName', 'exchangeCode', 'marketPlace', 'sector',
 #  'industry', 'volume', 'openPrice', 'dayHigh', 'dayLow', 'MarketCap',
