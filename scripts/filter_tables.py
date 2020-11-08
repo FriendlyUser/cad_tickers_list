@@ -16,7 +16,7 @@ import pandas as pd
 #  'priceToBook', 'priceToCashFlow', 'returnOnEquity', 'returnOnAssets',
 #  'day21MovingAvg', 'day50MovingAvg', 'day200MovingAvg', 'dividend3Years',
 #  'dividend5Years', 'datatype', '__typename']
-tsx_df = pd.read_csv("static/9/full_9_2020.csv")
+tsx_df = pd.read_csv("static/latest/stocks.csv")
 # Remove duplicates by table
 tsx_df = tsx_df[
     [
@@ -24,6 +24,10 @@ tsx_df = tsx_df[
         "price",
         "volume",
         "sector",
+        "exchangeCode",
+        "returnOnEquity",
+        "returnOnAssets",
+        "alpha",
         "industry",
         "peRatio",
         "shortDescription",
