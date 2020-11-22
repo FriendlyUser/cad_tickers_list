@@ -2,6 +2,7 @@ name: Make Script
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  STOCK_API: ${{ secrets.STOCK_API }}
 
 on:
   push:
