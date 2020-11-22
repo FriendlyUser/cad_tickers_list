@@ -1,4 +1,4 @@
-name: Make Script
+name: Updating Stock Api
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
