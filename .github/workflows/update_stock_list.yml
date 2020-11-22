@@ -27,6 +27,7 @@ jobs:
     - run: |
         pip3 install -r scripts/requirements.txt
         python scripts/get_ticker_list.py
+        git add .
 
     - name: Commit Changes
       run: |
