@@ -30,6 +30,7 @@ jobs:
         git add .
 
     - name: Commit Changes
+      continue-on-error: true
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action $date"
