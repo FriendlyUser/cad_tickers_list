@@ -23,5 +23,5 @@ with open(file_name, "wb") as fp:
     pickle.dump(full_tickers, fp)
 
 with open(raw_file_name, 'w', encoding='utf-8') as f:
-    json.dump(data, f, ensure_ascii=False, indent=4)
+    json.dump(full_tickers, f, ensure_ascii=False, indent=4)
     
