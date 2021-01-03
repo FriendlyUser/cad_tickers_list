@@ -2,6 +2,7 @@ import pickle
 import requests
 import os
 import pathlib
+import json
 
 folder = f"static/latest"
 pathlib.Path(folder).mkdir(parents=True, exist_ok=True)
@@ -16,6 +17,11 @@ def get_tickers():
 
 
 file_name = f"{folder}/tickers"
+raw_file_name = f"{folder}/raw_tickers.json"
 full_tickers = get_tickers()
 with open(file_name, "wb") as fp:
     pickle.dump(full_tickers, fp)
+
+with open(raw_file_name, 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=4)
+    
