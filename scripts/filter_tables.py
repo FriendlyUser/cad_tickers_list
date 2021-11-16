@@ -1,5 +1,5 @@
 import dash
-import dash_table
+from dash import dash_table
 import dash_html_components as html
 import pandas as pd
 
