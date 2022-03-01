@@ -11,7 +11,7 @@ ACME Lithium Inc.,ACME,Mining,,CSE Composite,CAD,2021-04-28 04:00:00,https://the
 "Acreage Holdings, Inc. Fixed S.V.",ACRG.A.U,Life Sciences,US Cannabis,,USD,2018-11-15 05:00:00,"https://thecse.com/en/listings/life-sciences/acreage-holdings,-inc-fixed-sv"
 "Acreage Holdings, Inc. Floating S.V.",ACRG.B.U,Life Sciences,US Cannabis,,USD,2020-09-23 04:00:00,"https://thecse.com/en/listings/life-sciences/acreage-holdings,-inc-floating-sv"
 Adastra Holdings Ltd. (formerly was XTRX/Phyto Extractions Inc. until 2021-08-31),XTRX,Life Sciences,Cannabis,CSE Composite,CAD,2020-01-06 05:00:00,https://thecse.com/en/listings/life-sciences/adastra-holdings-ltd-(formerly-was-xtrx/phyto-extractions-inc-until-2021-08-31)
-Aduro Clean Technologies Inc.,ACT,Technology,,CSE Composite,CAD,2021-04-29 04:00:00,https://thecse.com/en/listings/technology/aduro-clean-technologies-inc
+Aduro Clean Technologies Inc.,ACT,CleanTech,,CSE Composite,CAD,2021-04-29 04:00:00,https://thecse.com/en/listings/cleantech/aduro-clean-technologies-inc
 Advance United Holdings Inc.,AUHI,Mining,,CSE Composite,CAD,2021-05-28 04:00:00,https://thecse.com/en/listings/mining/advance-united-holdings-inc
 Advantagewon Oil Corp.,AOC,Oil and Gas,,CSE Composite,CAD,2017-07-13 04:00:00,https://thecse.com/en/listings/oil-and-gas/advantagewon-oil-corp
 Advantex Marketing International Inc.,ADX,Diversified Industries,,,CAD,2015-09-17 04:00:00,https://thecse.com/en/listings/diversified-industries/advantex-marketing-international-inc
@@ -62,7 +62,7 @@ Avarone Metals Inc.,AVM.X,Mining,,,CAD,2016-02-01 05:00:00,https://thecse.com/en
 Avisa Diagnostics Inc.,AVBT,Life Sciences,,,CAD,2021-05-18 04:00:00,https://thecse.com/en/listings/life-sciences/avisa-diagnostics-inc
 Axiom Capital Advisors Inc.,ACA,Diversified Industries,,,CAD,2020-08-13 04:00:00,https://thecse.com/en/listings/diversified-industries/axiom-capital-advisors-inc
 Ayr Wellness Inc. 10DEC2024 Notes,AYR.NT.U,Life Sciences,US Cannabis,,USD,2021-04-21 04:00:00,https://thecse.com/en/listings/life-sciences/ayr-wellness-inc-10dec2024-notes
-"Ayr Wellness Inc. S.V., RVS, L.V. (formerly was AYR.A/Ayr Strategies Inc. S.V., RVS, L.V. until 2021-02-11)",AYR.A,Life Sciences,US Cannabis,CSE25,CAD,2019-08-19 04:00:00,"https://thecse.com/en/listings/life-sciences/ayr-wellness-inc-sv,-rvs,-lv-(formerly-was-ayra/ayr-strategies-inc-sv,-rvs,-lv-until-2021-02-11)"
+"Ayr Wellness Inc. S.V., RVS, L.V.",AYR.A,Life Sciences,US Cannabis,CSE25,CAD,2019-08-19 04:00:00,"https://thecse.com/en/listings/life-sciences/ayr-wellness-inc-sv,-rvs,-lv"
 Ayurcann Holdings Corp,AYUR,Life Sciences,Cannabis,CSE Composite,CAD,2021-04-08 04:00:00,https://thecse.com/en/listings/life-sciences/ayurcann-holdings-corp
 BacTech Environmental Corporation,BAC,CleanTech,,CSE Composite,CAD,2015-09-04 04:00:00,https://thecse.com/en/listings/cleantech/bactech-environmental-corporation
 Baden Resources Inc.,BDN,Mining,,,CAD,2021-05-28 04:00:00,https://thecse.com/en/listings/mining/baden-resources-inc
@@ -114,7 +114,7 @@ Britannia Life Sciences Inc.,BLAB,Diversified Industries,US Cannabis,,CAD,2021-1
 Bunker Hill Mining Corp.,BNKR,Mining,,CSE Composite,CAD,2017-05-19 04:00:00,https://thecse.com/en/listings/mining/bunker-hill-mining-corp
 Burrell Resources Inc.,BURY,Mining,,,CAD,2021-07-12 04:00:00,https://thecse.com/en/listings/mining/burrell-resources-inc
 BYND Cannasoft Enterprises Inc,BYND,Life Sciences,Cannabis,CSE Composite,CAD,2021-04-26 04:00:00,https://thecse.com/en/listings/life-sciences/bynd-cannasoft-enterprises-inc
-BYT Holdings Ltd. (formerly was SLE/SLE Synergy Ltd. until 2021-01-28),BYT,Diversified Industries,,,CAD,2020-06-08 04:00:00,https://thecse.com/en/listings/diversified-industries/byt-holdings-ltd-(formerly-was-sle/sle-synergy-ltd-until-2021-01-28)
+BYT Holdings Ltd.,BYT,Diversified Industries,,,CAD,2020-06-08 04:00:00,https://thecse.com/en/listings/diversified-industries/byt-holdings-ltd
 C21 Investments Inc.,CXXI,Life Sciences,US Cannabis,CSE Composite,CAD,2018-06-18 04:00:00,https://thecse.com/en/listings/life-sciences/c21-investments-inc
 C2C Gold Corp,CTOC,Mining,,CSE Composite,CAD,2015-09-02 04:00:00,https://thecse.com/en/listings/mining/c2c-gold-corp
 Camarico Investment Group Ltd.,CIG,Life Sciences,,,CAD,2019-08-13 04:00:00,https://thecse.com/en/listings/life-sciences/camarico-investment-group-ltd
@@ -138,6 +138,7 @@ Captiva Verde Wellness Corp. (formerly was PWR/Captiva Verde Land Corp. until 20
 Captor Capital Corp,CPTR,Diversified Industries,Cannabis,CSE Composite,CAD,2017-10-30 04:00:00,https://thecse.com/en/listings/diversified-industries/captor-capital-corp
 Carl Data Solutions Inc.,CRL,Technology,,CSE Composite,CAD,2015-09-02 04:00:00,https://thecse.com/en/listings/technology/carl-data-solutions-inc
 Carlyle Commodities Corp.,CCC,Mining,,,CAD,2018-10-24 04:00:00,https://thecse.com/en/listings/mining/carlyle-commodities-corp
+Carson River Ventures Corp.,CRIV,Mining,,,CAD,2022-02-07 05:00:00,https://thecse.com/en/listings/mining/carson-river-ventures-corp
 Cartier Iron Corporation,CFE,Mining,,CSE Composite,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/mining/cartier-iron-corporation
 Cascada Silver Corp.,CSS,Mining,,,CAD,2021-03-12 05:00:00,https://thecse.com/en/listings/mining/cascada-silver-corp
 Cascadia Blockchain Group Corp.,CK,Technology,Blockchain,CSE Composite,CAD,2018-09-10 04:00:00,https://thecse.com/en/listings/technology/cascadia-blockchain-group-corp
@@ -187,6 +188,7 @@ Crest Resources Inc.,CRES,Mining,,CSE Composite,CAD,2018-10-23 04:00:00,https://
 Crestview Exploration Inc.,CRS,Mining,,CSE Composite,CAD,2019-09-09 04:00:00,https://thecse.com/en/listings/mining/crestview-exploration-inc
 Cross River Ventures Corp.,CRVC,Mining,,CSE Composite,CAD,2020-07-14 04:00:00,https://thecse.com/en/listings/mining/cross-river-ventures-corp
 Cruz Battery Metals Corp. (formerly was CRUZ/Cruz Cobalt Corp. until 2021-08-06),CRUZ,Mining,,CSE Composite,CAD,2019-08-06 04:00:00,https://thecse.com/en/listings/mining/cruz-battery-metals-corp-(formerly-was-cruz/cruz-cobalt-corp-until-2021-08-06)
+Cullinan Metals Corp,CMT,Mining,,,CAD,2022-02-18 05:00:00,https://thecse.com/en/listings/mining/cullinan-metals-corp
 Cult Food Science Corp,CULT,Diversified Industries,,,CAD,2022-01-17 05:00:00,https://thecse.com/en/listings/diversified-industries/cult-food-science-corp
 "Curaleaf Holdings, Inc.",CURA,Life Sciences,US Cannabis,CSE25,CAD,2018-10-29 04:00:00,"https://thecse.com/en/listings/life-sciences/curaleaf-holdings,-inc"
 CurrencyWorks Inc.,CWRK,Technology,,CSE Composite,CAD,2021-04-28 04:00:00,https://thecse.com/en/listings/technology/currencyworks-inc
@@ -242,7 +244,6 @@ EYEFI Group Technologies Inc.,EGTI,Technology,,CSE Composite,CAD,2020-12-04 05:0
 Fabled Copper Corp.,FABL,Mining,,,CAD,2021-12-21 05:00:00,https://thecse.com/en/listings/mining/fabled-copper-corp
 Fandom Sports Media Corp.,FDM,Technology,,CSE Composite,CAD,2016-08-03 04:00:00,https://thecse.com/en/listings/technology/fandom-sports-media-corp
 FansUnite Entertainment Inc.,FANS,Technology,,CSE Composite,CAD,2020-05-05 04:00:00,https://thecse.com/en/listings/technology/fansunite-entertainment-inc
-Fantasy 360 Technologies Inc.,VRAR,Technology,,CSE Composite,CAD,2021-09-08 04:00:00,https://thecse.com/en/listings/technology/fantasy-360-technologies-inc
 Fathom Nickel Inc.,FNI,Mining,,CSE Composite,CAD,2021-05-25 04:00:00,https://thecse.com/en/listings/mining/fathom-nickel-inc
 Feel Foods Ltd. (formerly was NHS/NHS Industries Ltd. until 2021-07-27),FEEL,Life Sciences,,CSE Composite,CAD,2018-04-05 04:00:00,https://thecse.com/en/listings/life-sciences/feel-foods-ltd-(formerly-was-nhs/nhs-industries-ltd-until-2021-07-27)
 FenixOro Gold Corp.,FENX,Mining,,CSE Composite,CAD,2020-05-21 04:00:00,https://thecse.com/en/listings/mining/fenixoro-gold-corp
@@ -263,10 +264,9 @@ Flower One Holdings Inc.Series 28MAR2019 Debentures,FONE.DB.B,Life Sciences,,,CA
 Flower One Holdings Inc.Wts.,FONE.WT,Life Sciences,US Cannabis,,CAD,2019-03-28 04:00:00,https://thecse.com/en/listings/life-sciences/flower-one-holdings-incwts
 Foremost Lithium Resource & Technology Ltd. (formerly was FAT/Far Resources Ltd. until 2022-01-06),FAT,Mining,,CSE Composite,CAD,2015-09-02 04:00:00,https://thecse.com/en/listings/mining/foremost-lithium-resource-&-technology-ltd-(formerly-was-fat/far-resources-ltd-until-2022-01-06)
 Forte Minerals Corp,CUAU,Mining,,,CAD,2022-01-25 05:00:00,https://thecse.com/en/listings/mining/forte-minerals-corp
-Forty Pillars Mining Corp. (formerly was PLLR/Forty Pillar Mining Corp. until 2021-05-31),PLLR,Mining,,,CAD,2021-05-31 04:00:00,https://thecse.com/en/listings/mining/forty-pillars-mining-corp-(formerly-was-pllr/forty-pillar-mining-corp-until-2021-05-31)
+Forty Pillars Mining Corp.,PLLR,Mining,,,CAD,2021-05-31 04:00:00,https://thecse.com/en/listings/mining/forty-pillars-mining-corp
 Four Nines Gold Inc.,FNAU,Mining,,CSE Composite,CAD,2017-08-31 04:00:00,https://thecse.com/en/listings/mining/four-nines-gold-inc
 Fox River Resources Corporation,FOX,Mining,,CSE Composite,CAD,2016-02-05 05:00:00,https://thecse.com/en/listings/mining/fox-river-resources-corporation
-Freeman Gold Corp.,FMAN,Mining,,CSE Composite,CAD,2019-11-11 05:00:00,https://thecse.com/en/listings/mining/freeman-gold-corp
 FSD Pharma Inc. Subordinate Voting Shares,HUGE,Life Sciences,,CSE Composite,CAD,2018-05-29 04:00:00,https://thecse.com/en/listings/life-sciences/fsd-pharma-inc-subordinate-voting-shares
 Future Farm Technologies Inc.,FFT,Technology,Cannabis,,CAD,2016-03-07 05:00:00,https://thecse.com/en/listings/technology/future-farm-technologies-inc
 G2 Technologies Corp,GTOO,Technology,,,CAD,2017-12-28 05:00:00,https://thecse.com/en/listings/technology/g2-technologies-corp
@@ -302,9 +302,9 @@ Gold Hunter Resources Inc,HUNT,Mining,,CSE Composite,CAD,2021-02-12 05:00:00,htt
 Gold Lion Resources Inc.,GL,Mining,,CSE Composite,CAD,2019-11-13 05:00:00,https://thecse.com/en/listings/mining/gold-lion-resources-inc
 Gold Port Corporation,GPO,Mining,,CSE Composite,CAD,2019-09-24 04:00:00,https://thecse.com/en/listings/mining/gold-port-corporation
 Gold'Futures Mineral Corp.,FUTR,Mining,,CSE Composite,CAD,2020-08-21 04:00:00,https://thecse.com/en/listings/mining/gold'futures-mineral-corp
-Goldblock Capital Inc.,GBLK,Mining,,,CAD,2020-03-03 05:00:00,https://thecse.com/en/listings/mining/goldblock-capital-inc
 Golden Independence Mining Corp.,IGLD,Mining,,CSE Composite,CAD,2018-06-28 04:00:00,https://thecse.com/en/listings/mining/golden-independence-mining-corp
 Golden Lake Exploration Inc.,GLM,Mining,,CSE Composite,CAD,2019-05-08 04:00:00,https://thecse.com/en/listings/mining/golden-lake-exploration-inc
+Golden Shield Resources Inc.,GSRI,Mining,,,CAD,2022-02-22 05:00:00,https://thecse.com/en/listings/mining/golden-shield-resources-inc
 Golden Spike Resources Corp,GLDS,Mining,,CSE Composite,CAD,2021-09-13 04:00:00,https://thecse.com/en/listings/mining/golden-spike-resources-corp
 GoldHaven Resources Corp.,GOH,Mining,,CSE Composite,CAD,2020-03-30 04:00:00,https://thecse.com/en/listings/mining/goldhaven-resources-corp
 Goldrea Resources Corp.,GOR,Mining,,,CAD,2015-09-02 04:00:00,https://thecse.com/en/listings/mining/goldrea-resources-corp
@@ -330,18 +330,21 @@ HAVN Life Sciences Inc.,HAVN,Life Sciences,,CSE Composite,CAD,2020-09-08 04:00:0
 Hawkmoon Resources Corp.,HM,Mining,,CSE Composite,CAD,2021-04-19 04:00:00,https://thecse.com/en/listings/mining/hawkmoon-resources-corp
 Headwater Gold Inc.,HWG,Mining,,CSE Composite,CAD,2021-06-08 04:00:00,https://thecse.com/en/listings/mining/headwater-gold-inc
 HealthSpace Data Systems Ltd.,HS,Technology,,CSE Composite,CAD,2015-11-30 05:00:00,https://thecse.com/en/listings/technology/healthspace-data-systems-ltd
+HealthSpace Data Systems Ltd. 4FEB2024 Warrants,HS.WT,Technology,,,CAD,2022-02-07 05:00:00,https://thecse.com/en/listings/technology/healthspace-data-systems-ltd-4feb2024-warrants
 Hello Pal International Inc.,HP,Technology,,CSE Composite,CAD,2016-05-13 04:00:00,https://thecse.com/en/listings/technology/hello-pal-international-inc
 Hemp for Health Inc.,HFH,Life Sciences,Cannabis,,CAD,2019-11-21 05:00:00,https://thecse.com/en/listings/life-sciences/hemp-for-health-inc
 Hempsana Holdings Ltd.,HMPS,Life Sciences,Cannabis,,CAD,2021-07-15 04:00:00,https://thecse.com/en/listings/life-sciences/hempsana-holdings-ltd
 Heritage Cannabis Holdings Corp.,CANN,Life Sciences,Cannabis,CSE Composite,CAD,2018-01-10 05:00:00,https://thecse.com/en/listings/life-sciences/heritage-cannabis-holdings-corp
 Heritage Cannabis Holdings Corp. 17MAR2023 Warrants,CANN.WT.A,Life Sciences,Cannabis,,CAD,2021-03-17 04:00:00,https://thecse.com/en/listings/life-sciences/heritage-cannabis-holdings-corp-17mar2023-warrants
 Hi Ho Silver Resources Inc.,HHS,Mining,,,CAD,2015-09-08 04:00:00,https://thecse.com/en/listings/mining/hi-ho-silver-resources-inc
+Hi-View Resources Inc,HVW,Mining,,,CAD,2022-01-28 05:00:00,https://thecse.com/en/listings/mining/hi-view-resources-inc
 High Fusion Inc (formerly was EAT/Nutritional High International Inc. until 2021-11-10),FUZN,Life Sciences,US Cannabis,CSE Composite,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/life-sciences/high-fusion-inc-(formerly-was-eat/nutritional-high-international-inc-until-2021-11-10)
 Highlander Silver Corp.,HSLV,Mining,,CSE Composite,CAD,2021-08-17 04:00:00,https://thecse.com/en/listings/mining/highlander-silver-corp
 Hillcrest Energy Technologies Ltd. (formerly was HEAT/Hillcrest Petroleum Ltd. until 2021-04-08),HEAT,Technology,,CSE Composite,CAD,2021-03-31 04:00:00,https://thecse.com/en/listings/technology/hillcrest-energy-technologies-ltd-(formerly-was-heat/hillcrest-petroleum-ltd-until-2021-04-08)
 Humble & Fume Inc,HMBL,Life Sciences,Cannabis,CSE Composite,CAD,2021-06-16 04:00:00,https://thecse.com/en/listings/life-sciences/humble-&-fume-inc
 Humble & Fume Inc. 14JUNE2024 Warrants,HMBL.WT,Life Sciences,Cannabis,,CAD,2021-07-27 04:00:00,https://thecse.com/en/listings/life-sciences/humble-&-fume-inc-14june2024-warrants
 Hydrograph Clean Power Inc,HG,Technology,,CSE Composite,CAD,2021-12-02 05:00:00,https://thecse.com/en/listings/technology/hydrograph-clean-power-inc
+HYTN Innovations Inc,HYTN,Life Sciences,,,CAD,2022-02-22 05:00:00,https://thecse.com/en/listings/life-sciences/hytn-innovations-inc
 I3 Interactive Inc. (formerly was BETS.WT/Interactive Games Technologies Inc Warrants until 2021-05-20),BETS.WT,Technology,,,CAD,2020-08-24 04:00:00,https://thecse.com/en/listings/technology/i3-interactive-inc-(formerly-was-betswt/interactive-games-technologies-inc-warrants-until-2021-05-20)
 I3 Interactive Inc. (formerly was BETS/Interactive Games Technologies Inc until 2021-05-20),BETS,Technology,,,CAD,2020-07-02 04:00:00,https://thecse.com/en/listings/technology/i3-interactive-inc-(formerly-was-bets/interactive-games-technologies-inc-until-2021-05-20)
 iAnthus Capital Holdings Inc.,IAN,Life Sciences,US Cannabis,CSE Composite,CAD,2016-09-07 04:00:00,https://thecse.com/en/listings/life-sciences/ianthus-capital-holdings-inc
@@ -371,6 +374,7 @@ Isracann Biosciences Inc.,IPOT,Life Sciences,Cannabis,CSE Composite,CAD,2019-10-
 Ivor Exploration Inc.,IVOR,Mining,,,CAD,2020-06-30 04:00:00,https://thecse.com/en/listings/mining/ivor-exploration-inc
 Izotropic Corporation,IZO,Life Sciences,,CSE Composite,CAD,2018-06-04 04:00:00,https://thecse.com/en/listings/life-sciences/izotropic-corporation
 James Bay Resources Limited,JBR,Oil and Gas,,,CAD,2015-09-02 04:00:00,https://thecse.com/en/listings/oil-and-gas/james-bay-resources-limited
+Jones Soda Co,JSDA,Diversified Industries,,,CAD,2022-02-18 05:00:00,https://thecse.com/en/listings/diversified-industries/jones-soda-co
 Jushi Holdings Inc. Class B Subordinate Voting Shares,JUSH,Life Sciences,US Cannabis,CSE25,CAD,2019-12-09 05:00:00,https://thecse.com/en/listings/life-sciences/jushi-holdings-inc-class-b-subordinate-voting-shares
 Jushi Holdings Inc.10% 15JAN23,JUSH.DB.U,Life Sciences,US Cannabis,,USD,2020-12-01 05:00:00,https://thecse.com/en/listings/life-sciences/jushi-holdings-inc10%-15jan23
 Juva Life Inc.,JUVA,Life Sciences,US Cannabis,CSE Composite,CAD,2020-11-17 05:00:00,https://thecse.com/en/listings/life-sciences/juva-life-inc
@@ -395,7 +399,7 @@ Lida Resources Inc.,LIDA,Mining,,,CAD,2020-05-28 04:00:00,https://thecse.com/en/
 Link Global Technologies Inc.,LNK,Technology,Blockchain,CSE Composite,CAD,2019-11-15 05:00:00,https://thecse.com/en/listings/technology/link-global-technologies-inc
 Liquid Avatar Technologies Inc. (formerly was KABN/KABN Systems NA Holdings Corp. until 2021-03-02),LQID,Technology,,CSE Composite,CAD,2020-06-10 04:00:00,https://thecse.com/en/listings/technology/liquid-avatar-technologies-inc-(formerly-was-kabn/kabn-systems-na-holdings-corp-until-2021-03-02)
 Lobe Sciences Ltd.,LOBE,Life Sciences,,CSE Composite,CAD,2019-06-07 04:00:00,https://thecse.com/en/listings/life-sciences/lobe-sciences-ltd
-Lords & Company Worldwide Holdings Inc. (formerly was PACR/Pac Roots Cannabis Corp. until 2021-11-18),LRDS,Life Sciences,Cannabis,CSE Composite,CAD,2020-05-04 04:00:00,https://thecse.com/en/listings/life-sciences/lords-&-company-worldwide-holdings-inc-(formerly-was-pacr/pac-roots-cannabis-corp-until-2021-11-18)
+Lords & Company Worldwide Holdings Inc.,LRDS,Life Sciences,Cannabis,CSE Composite,CAD,2020-05-04 04:00:00,https://thecse.com/en/listings/life-sciences/lords-&-company-worldwide-holdings-inc
 Lotus Ventures Inc.,J,Life Sciences,Cannabis,CSE Composite,CAD,2015-09-02 04:00:00,https://thecse.com/en/listings/life-sciences/lotus-ventures-inc
 Love Pharma Inc.,LUV,Life Sciences,,,CAD,2021-09-30 04:00:00,https://thecse.com/en/listings/life-sciences/love-pharma-inc
 "Lowell Farms Inc. (formerly was INDS/Indus Holdings, Inc. until 2021-03-04)",LOWL,Life Sciences,US Cannabis,CSE Composite,CAD,2019-04-30 04:00:00,"https://thecse.com/en/listings/life-sciences/lowell-farms-inc-(formerly-was-inds/indus-holdings,-inc-until-2021-03-04)"
@@ -413,13 +417,14 @@ Marret High Yield Strategies Fund A,MHY.UN,Diversified Industries,,CSE Composite
 Marret Multi-Strategy Income Fund A,MMF.UN,Diversified Industries,,,CAD,2016-06-28 04:00:00,https://thecse.com/en/listings/diversified-industries/marret-multi-strategy-income-fund-a
 Mary Agrotechnologies Inc,MARY,Life Sciences,,CSE Composite,CAD,2021-05-20 04:00:00,https://thecse.com/en/listings/life-sciences/mary-agrotechnologies-inc
 Maven Brands Inc (formerly was MJ/True Leaf Brands Inc. until 2021-10-29),MJ,Life Sciences,Cannabis,CSE Composite,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/life-sciences/maven-brands-inc-(formerly-was-mj/true-leaf-brands-inc-until-2021-10-29)
+Max Power Mining Corp,MAXX,Mining,,,CAD,2022-02-16 05:00:00,https://thecse.com/en/listings/mining/max-power-mining-corp
 McLaren Resources Inc.,MCL,Mining,,,CAD,2015-11-20 05:00:00,https://thecse.com/en/listings/mining/mclaren-resources-inc
 ME Resource Corp.,MEC,Mining,,,CAD,2015-09-18 04:00:00,https://thecse.com/en/listings/mining/me-resource-corp
 Medaro Mining Corp.,MEDA,Mining,,CSE Composite,CAD,2021-04-07 04:00:00,https://thecse.com/en/listings/mining/medaro-mining-corp
 Medcolcanna Organics Inc.,MCCN,Life Sciences,,,CAD,2021-12-30 05:00:00,https://thecse.com/en/listings/life-sciences/medcolcanna-organics-inc
 Media Central Corporation Inc,FLYY,Diversified Industries,,CSE Composite,CAD,2019-10-28 04:00:00,https://thecse.com/en/listings/diversified-industries/media-central-corporation-inc
 MedMen Enterprises Inc. Class B Subordinate Voting Shares,MMEN,Life Sciences,US Cannabis,CSE Composite,CAD,2018-05-29 04:00:00,https://thecse.com/en/listings/life-sciences/medmen-enterprises-inc-class-b-subordinate-voting-shares
-MegaWatt Lithium and Battery Metals Corp. (formerly was WAL/Walcott Resources Ltd. until 2021-02-03),MEGA,Mining,,CSE Composite,CAD,2019-07-31 04:00:00,https://thecse.com/en/listings/mining/megawatt-lithium-and-battery-metals-corp-(formerly-was-wal/walcott-resources-ltd-until-2021-02-03)
+MegaWatt Lithium and Battery Metals Corp.,MEGA,Mining,,CSE Composite,CAD,2019-07-31 04:00:00,https://thecse.com/en/listings/mining/megawatt-lithium-and-battery-metals-corp
 MegumaGold Corp,NSAU,Mining,,CSE Composite,CAD,2018-01-19 05:00:00,https://thecse.com/en/listings/mining/megumagold-corp
 Meryllion Resources Corporation (formerly was MYR.X/Meryllion Resources Corporation until 2021-12-02),MYR,Mining,,,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/mining/meryllion-resources-corporation-(formerly-was-myrx/meryllion-resources-corporation-until-2021-12-02)
 Metallica Metals Corp,MM,Mining,,CSE Composite,CAD,2020-06-16 04:00:00,https://thecse.com/en/listings/mining/metallica-metals-corp
@@ -538,11 +543,12 @@ Potent Ventures Inc. (formerly was POT/Weekend Unlimited Industries Inc. until 2
 PR Technology Inc.,PRTI,Technology,,,CAD,2021-11-26 05:00:00,https://thecse.com/en/listings/technology/pr-technology-inc
 Predictmedix Inc.,PMED,Life Sciences,Cannabis,CSE Composite,CAD,2019-12-20 05:00:00,https://thecse.com/en/listings/life-sciences/predictmedix-inc
 PreveCeutical Medical Inc.,PREV,Life Sciences,,CSE Composite,CAD,2016-12-30 05:00:00,https://thecse.com/en/listings/life-sciences/preveceutical-medical-inc
-Prisma Capital Inc.,PCC,Mining,,,CAD,2022-01-17 05:00:00,https://thecse.com/en/listings/mining/prisma-capital-inc
+Prisma Exploration Inc (formerly was PCC/Prisma Capital Inc. until 2022-02-10),PMS,Mining,,,CAD,2022-01-17 05:00:00,https://thecse.com/en/listings/mining/prisma-exploration-inc-(formerly-was-pcc/prisma-capital-inc-until-2022-02-10)
 Prismo Metals Inc,PRIZ,Mining,,CSE Composite,CAD,2020-10-01 04:00:00,https://thecse.com/en/listings/mining/prismo-metals-inc
 Prophecy DeFi Inc. (formerly was BCA/Bucephalus Capital Corp. until 2021-06-25),PDFI,Diversified Industries,,CSE Composite,CAD,2016-03-16 04:00:00,https://thecse.com/en/listings/diversified-industries/prophecy-defi-inc-(formerly-was-bca/bucephalus-capital-corp-until-2021-06-25)
 Prospect Park Capital Corp.,PPK,Diversified Industries,,CSE Composite,CAD,2021-07-15 04:00:00,https://thecse.com/en/listings/diversified-industries/prospect-park-capital-corp
 Prospect Ridge Resources Corp.,PRR,Mining,,CSE Composite,CAD,2021-05-31 04:00:00,https://thecse.com/en/listings/mining/prospect-ridge-resources-corp
+Prosperity Exploration Corp,PROP,Mining,,,CAD,2022-01-31 05:00:00,https://thecse.com/en/listings/mining/prosperity-exploration-corp
 Provenance Gold Corp.,PAU,Mining,,CSE Composite,CAD,2017-10-12 04:00:00,https://thecse.com/en/listings/mining/provenance-gold-corp
 Psyched Wellness Ltd,PSYC,Life Sciences,,CSE Composite,CAD,2020-10-22 04:00:00,https://thecse.com/en/listings/life-sciences/psyched-wellness-ltd
 Psyence Group Inc,PSYG,Life Sciences,,CSE Composite,CAD,2021-01-27 05:00:00,https://thecse.com/en/listings/life-sciences/psyence-group-inc
@@ -559,6 +565,7 @@ Quinsam Capital Corporation,QCA,Diversified Industries,Cannabis,CSE Composite,CA
 Quizam Media Corporation,QQ,Technology,,CSE Composite,CAD,2018-07-12 04:00:00,https://thecse.com/en/listings/technology/quizam-media-corporation
 Radial Research Corp,RAD,Technology,,,CAD,2018-10-31 04:00:00,https://thecse.com/en/listings/technology/radial-research-corp
 Radio Fuels Energy Corp.,CAKE,Mining,,,CAD,2021-12-21 05:00:00,https://thecse.com/en/listings/mining/radio-fuels-energy-corp
+Radio Fuels Energy Corp. 6DEC2026 Warrants,CAKE.WT,Mining,,,CAD,2022-02-07 05:00:00,https://thecse.com/en/listings/mining/radio-fuels-energy-corp-6dec2026-warrants
 Raffles Financial Group Limited,RICH,Diversified Industries,,,CAD,2020-05-11 04:00:00,https://thecse.com/en/listings/diversified-industries/raffles-financial-group-limited
 Railtown AI Technologies Inc,RAIL,Technology,,,CAD,2021-11-30 05:00:00,https://thecse.com/en/listings/technology/railtown-ai-technologies-inc
 Rain City Resources Inc.,RAIN,Mining,,,CAD,2019-04-26 04:00:00,https://thecse.com/en/listings/mining/rain-city-resources-inc
@@ -569,7 +576,7 @@ Razore Rock Resources Inc.,RZR,Mining,,,CAD,2015-09-17 04:00:00,https://thecse.c
 Ready Set Gold Corp.,RDY,Mining,,,CAD,2021-01-12 05:00:00,https://thecse.com/en/listings/mining/ready-set-gold-corp
 Red Lake Gold Inc.,RGLD,Mining,,CSE Composite,CAD,2018-05-09 04:00:00,https://thecse.com/en/listings/mining/red-lake-gold-inc
 Red Light Holland Corp.,TRIP,Life Sciences,,CSE Composite,CAD,2020-05-28 04:00:00,https://thecse.com/en/listings/life-sciences/red-light-holland-corp
-Red Light Holland Corp. Warrants,TRIP.WT,Life Sciences,,,CAD,2021-01-28 05:00:00,https://thecse.com/en/listings/life-sciences/red-light-holland-corp-warrants
+Red Light Holland Corp. Warrants,TRIP.WT.A,Life Sciences,,,CAD,2021-02-24 05:00:00,https://thecse.com/en/listings/life-sciences/red-light-holland-corp-warrants
 Red Metal Resources Ltd.,RMES,Mining,,,CAD,2021-11-25 05:00:00,https://thecse.com/en/listings/mining/red-metal-resources-ltd
 Red White & Bloom Brands Inc.,RWB,Life Sciences,US Cannabis,CSE Composite,CAD,2020-06-05 04:00:00,https://thecse.com/en/listings/life-sciences/red-white-&-bloom-brands-inc
 Red White & Bloom Brands Inc. Wts. 24SEP22,RWB.WT,Life Sciences,US Cannabis,,CAD,2020-09-24 04:00:00,https://thecse.com/en/listings/life-sciences/red-white-&-bloom-brands-inc-wts-24sep22
@@ -641,6 +648,7 @@ Supernova Metals Corp.,SUPR,Mining,,,CAD,2021-05-21 04:00:00,https://thecse.com/
 SureNano Science Ltd,SURE,Technology,,,CAD,2021-12-20 05:00:00,https://thecse.com/en/listings/technology/surenano-science-ltd
 Swarmio Media Holdings Inc.,SWRM,Technology,,CSE Composite,CAD,2021-11-22 05:00:00,https://thecse.com/en/listings/technology/swarmio-media-holdings-inc
 Sweet Earth Holdings Corporation,SE,Life Sciences,US Cannabis,CSE Composite,CAD,2020-05-26 04:00:00,https://thecse.com/en/listings/life-sciences/sweet-earth-holdings-corporation
+SWMBRD Sports Inc.,SWIM,Diversified Industries,,,CAD,2022-02-16 05:00:00,https://thecse.com/en/listings/diversified-industries/swmbrd-sports-inc
 Taal Distributed Information Technologies Inc.,TAAL,Technology,Blockchain,CSE Composite,CAD,2015-09-21 04:00:00,https://thecse.com/en/listings/technology/taal-distributed-information-technologies-inc
 TAAT Global Alternatives Inc. (formerly was TAAT/TAAT Lifestyle & Wellness Ltd. until 2021-04-27),TAAT,Life Sciences,Cannabis,CSE25,CAD,2020-06-22 04:00:00,https://thecse.com/en/listings/life-sciences/taat-global-alternatives-inc-(formerly-was-taat/taat-lifestyle-&-wellness-ltd-until-2021-04-27)
 Taiga Gold Corp,TGC,Mining,,CSE Composite,CAD,2018-04-30 04:00:00,https://thecse.com/en/listings/mining/taiga-gold-corp
@@ -685,10 +693,11 @@ Treatment.com International Inc.,TRUE,Technology,,CSE Composite,CAD,2021-04-19 0
 Trenchant Capital Corp.,TCC,Diversified Industries,,CSE Composite,CAD,2020-08-28 04:00:00,https://thecse.com/en/listings/diversified-industries/trenchant-capital-corp
 Trenchant Capital Corp. 8% 31JAN23,TCC.DB.A,Diversified Industries,,,CAD,2020-08-28 04:00:00,https://thecse.com/en/listings/diversified-industries/trenchant-capital-corp-8%-31jan23
 TRENCHANT CAPITAL CORP. 9.0% DEBENTURES 31MAR22,TCC.DB,Diversified Industries,,,CAD,2020-08-28 04:00:00,https://thecse.com/en/listings/diversified-industries/trenchant-capital-corp-90%-debentures-31mar22
-Trillion Energy International Inc.,TCF,Oil and Gas,,CSE Composite,CAD,2020-02-11 05:00:00,https://thecse.com/en/listings/oil-and-gas/trillion-energy-international-inc
+Trillion Energy International Inc.,TCF,Oil and Gas,,,CAD,2020-02-11 05:00:00,https://thecse.com/en/listings/oil-and-gas/trillion-energy-international-inc
 TripSitter Clinic Ltd.,KETA,Technology,,,CAD,2021-11-29 05:00:00,https://thecse.com/en/listings/technology/tripsitter-clinic-ltd
 Trojan Gold Inc.,TGII,Mining,,,CAD,2021-12-17 05:00:00,https://thecse.com/en/listings/mining/trojan-gold-inc
 Trulieve Cannabis Corp.,TRUL,Life Sciences,US Cannabis,CSE25,CAD,2018-09-25 04:00:00,https://thecse.com/en/listings/life-sciences/trulieve-cannabis-corp
+Trulieve Cannabis Corp. 8% 6OCT2026 Notes USD,TRUL.NT.U,Life Sciences,,,USD,2022-02-07 05:00:00,https://thecse.com/en/listings/life-sciences/trulieve-cannabis-corp-8%-6oct2026-notes-usd
 Trulieve Cannabis Corp. 9.75% 18JUN24,TRUL.DB.U,Life Sciences,US Cannabis,,USD,2019-06-18 04:00:00,https://thecse.com/en/listings/life-sciences/trulieve-cannabis-corp-975%-18jun24
 TruTrace Technologies Inc.,TTT,Technology,"Cannabis, Blockchain",CSE Composite,CAD,2019-06-14 04:00:00,https://thecse.com/en/listings/technology/trutrace-technologies-inc
 Tryp Therapeutics Inc,TRYP,Life Sciences,,CSE Composite,CAD,2020-12-18 05:00:00,https://thecse.com/en/listings/life-sciences/tryp-therapeutics-inc
@@ -705,6 +714,7 @@ Valeo Pharma Inc.,VPH,Life Sciences,,CSE Composite,CAD,2019-02-20 05:00:00,https
 Valeo Pharma Inc. Wts.,VPH.WT,Life Sciences,,,CAD,2019-07-29 04:00:00,https://thecse.com/en/listings/life-sciences/valeo-pharma-inc-wts
 Valeo Pharma Inc. Wts. 10SEP22,VPH.WT.A,Life Sciences,,,CAD,2020-09-11 04:00:00,https://thecse.com/en/listings/life-sciences/valeo-pharma-inc-wts-10sep22
 Valorem Resources Inc.,VALU,Mining,,CSE Composite,CAD,2015-09-03 04:00:00,https://thecse.com/en/listings/mining/valorem-resources-inc
+Vegano Foods Inc.,VAGN,Life Sciences,,,CAD,2022-02-15 05:00:00,https://thecse.com/en/listings/life-sciences/vegano-foods-inc
 Vejii Holdings Ltd,VEJI,Technology,,,CAD,2021-11-10 05:00:00,https://thecse.com/en/listings/technology/vejii-holdings-ltd
 Verano Holdings Corp.,VRNO,Life Sciences,US Cannabis,CSE25,CAD,2021-02-17 05:00:00,https://thecse.com/en/listings/life-sciences/verano-holdings-corp
 Vext Science Inc. 02NOV2023 Warrants,VEXT.WT,Life Sciences,US Cannabis,,CAD,2020-11-02 05:00:00,https://thecse.com/en/listings/life-sciences/vext-science-inc-02nov2023-warrants
@@ -722,6 +732,7 @@ VSBLTY Groupe Technologies Corp Warrrants,VSBY.WT.A,Technology,,,CAD,2021-06-30 
 VSBLTY Groupe Technologies Corp.,VSBY,Technology,Blockchain,CSE25,CAD,2019-02-27 05:00:00,https://thecse.com/en/listings/technology/vsblty-groupe-technologies-corp
 VSBLTY Groupe Technologies Corp. Wts.,VSBY.WT,Technology,,,CAD,2020-08-28 04:00:00,https://thecse.com/en/listings/technology/vsblty-groupe-technologies-corp-wts
 Waraba Gold Limited,WBGD,Mining,,CSE Composite,CAD,2018-10-11 04:00:00,https://thecse.com/en/listings/mining/waraba-gold-limited
+Way of Will Inc.,WAY,Diversified Industries,,,CAD,2022-01-31 05:00:00,https://thecse.com/en/listings/diversified-industries/way-of-will-inc
 Wedgemount Resources Corp,WDGY,Mining,,CSE Composite,CAD,2021-05-21 04:00:00,https://thecse.com/en/listings/mining/wedgemount-resources-corp
 Wellteq Digital Health Inc (formerly was WTEQ/WelltQ Digital Health Inc. until 2021-03-29),WTEQ,Technology,,CSE Composite,CAD,2021-03-23 04:00:00,https://thecse.com/en/listings/technology/wellteq-digital-health-inc-(formerly-was-wteq/welltq-digital-health-inc-until-2021-03-29)
 Wesana Health Holdings Inc.,WESA,Life Sciences,,CSE Composite,CAD,2021-05-10 04:00:00,https://thecse.com/en/listings/life-sciences/wesana-health-holdings-inc
@@ -741,6 +752,7 @@ WSM Ventures Corp.,WSM.X,Diversified Industries,Blockchain,,CAD,2015-12-01 05:00
 Xebra Brands Ltd,XBRA,Life Sciences,,,CAD,2021-10-18 04:00:00,https://thecse.com/en/listings/life-sciences/xebra-brands-ltd
 Xigem Technologies Corporation,XIGM,Technology,,CSE Composite,CAD,2021-03-15 04:00:00,https://thecse.com/en/listings/technology/xigem-technologies-corporation
 XPhyto Therapeutics Corp.,XPHY,Life Sciences,,CSE Composite,CAD,2019-07-31 04:00:00,https://thecse.com/en/listings/life-sciences/xphyto-therapeutics-corp
+XR Immersive Tech Inc. (formerly was VRAR/Fantasy 360 Technologies Inc. until 2022-02-02),VRAR,Technology,,CSE Composite,CAD,2021-09-08 04:00:00,https://thecse.com/en/listings/technology/xr-immersive-tech-inc-(formerly-was-vrar/fantasy-360-technologies-inc-until-2022-02-02)
 XRApplied Technologies Inc,XRA,Technology,,,CAD,2021-07-30 04:00:00,https://thecse.com/en/listings/technology/xrapplied-technologies-inc
 XS Financial Inc.,XSF,Diversified Industries,US Cannabis,CSE Composite,CAD,2019-09-13 04:00:00,https://thecse.com/en/listings/diversified-industries/xs-financial-inc
 XTM Inc.,PAID,Technology,,CSE Composite,CAD,2020-03-10 04:00:00,https://thecse.com/en/listings/technology/xtm-inc
