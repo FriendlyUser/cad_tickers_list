@@ -35,6 +35,8 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action $date"
         git add static --force
+        git config pull.rebase false
+        git pull || true
         git commit -m "Adding new files"
         git pull || true
         git push
