@@ -7,6 +7,7 @@ Company,Symbol,Industry,Identifier,Indices,Currency,Trading,urls
 55 North Mining Inc.,FFF,Mining,,CSE Composite,CAD,2021-04-20 04:00:00,https://thecse.com/en/listings/mining/55-north-mining-inc
 79 Resources Ltd.,SNR,Mining,,CSE Composite,CAD,2020-08-28 04:00:00,https://thecse.com/en/listings/mining/79-resources-ltd
 79North Inc.,JQ,Mining,,CSE Composite,CAD,2020-06-16 04:00:00,https://thecse.com/en/listings/mining/79north-inc
+Acme Gold Company Limited,AGE,Mining,,,CAD,2022-05-26 04:00:00,https://thecse.com/en/listings/mining/acme-gold-company-limited
 ACME Lithium Inc.,ACME,Mining,,CSE Composite,CAD,2021-04-28 04:00:00,https://thecse.com/en/listings/mining/acme-lithium-inc
 "Acreage Holdings, Inc. Fixed S.V.",ACRG.A.U,Life Sciences,US Cannabis,,USD,2018-11-15 05:00:00,"https://thecse.com/en/listings/life-sciences/acreage-holdings,-inc-fixed-sv"
 "Acreage Holdings, Inc. Floating S.V.",ACRG.B.U,Life Sciences,US Cannabis,,USD,2020-09-23 04:00:00,"https://thecse.com/en/listings/life-sciences/acreage-holdings,-inc-floating-sv"
@@ -68,8 +69,6 @@ Ayr Wellness Inc. 10DEC2024 Notes,AYR.NT.U,Life Sciences,US Cannabis,,USD,2021-0
 Ayurcann Holdings Corp,AYUR,Life Sciences,Cannabis,CSE Composite,CAD,2021-04-08 04:00:00,https://thecse.com/en/listings/life-sciences/ayurcann-holdings-corp
 BacTech Environmental Corporation,BAC,CleanTech,,CSE Composite,CAD,2015-09-04 04:00:00,https://thecse.com/en/listings/cleantech/bactech-environmental-corporation
 Baden Resources Inc.,BDN,Mining,,,CAD,2021-05-28 04:00:00,https://thecse.com/en/listings/mining/baden-resources-inc
-Bam Bam Resources Corp.,BBR,Mining,,CSE Composite,CAD,2017-12-20 05:00:00,https://thecse.com/en/listings/mining/bam-bam-resources-corp
-Bam Bam Resources Corp. 14SEP2023 Warrants,BBR.WT,Mining,,,CAD,2021-02-19 05:00:00,https://thecse.com/en/listings/mining/bam-bam-resources-corp-14sep2023-warrants
 Basin Uranium Corp (formerly was BDX/Black Shield Metals Corp until 2021-10-26),NCLR,Mining,,CSE Composite,CAD,2021-04-09 04:00:00,https://thecse.com/en/listings/mining/basin-uranium-corp-(formerly-was-bdx/black-shield-metals-corp-until-2021-10-26)
 BC Craft Supply Co. Ltd.,CRFT,Life Sciences,Cannabis,,CAD,2019-06-03 04:00:00,https://thecse.com/en/listings/life-sciences/bc-craft-supply-co-ltd
 Bee Vectoring Technologies International Inc.,BEE,Technology,,CSE Composite,CAD,2020-08-21 04:00:00,https://thecse.com/en/listings/technology/bee-vectoring-technologies-international-inc
@@ -242,7 +241,6 @@ Euro Asia Pay Holdings Inc,EAP,Technology,,CSE Composite,CAD,2021-02-26 05:00:00
 Eurogas International Inc.,EI,Oil and Gas,,,CAD,2015-12-14 05:00:00,https://thecse.com/en/listings/oil-and-gas/eurogas-international-inc
 Eviana Health Corporation,EHC,Life Sciences,Cannabis,,CAD,2017-09-12 04:00:00,https://thecse.com/en/listings/life-sciences/eviana-health-corporation
 Evolution Global Frontier Ventures Corp.,EGFV,Mining,,,CAD,2020-12-11 05:00:00,https://thecse.com/en/listings/mining/evolution-global-frontier-ventures-corp
-Evolving Gold Corp.,EVG,Mining,,,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/mining/evolving-gold-corp
 eXeBlock Technology Corporation,XBLK,Technology,Blockchain,,CAD,2017-11-16 05:00:00,https://thecse.com/en/listings/technology/exeblock-technology-corporation
 EXMceuticals Inc.,EXM,Life Sciences,Cannabis,,CAD,2019-01-31 05:00:00,https://thecse.com/en/listings/life-sciences/exmceuticals-inc
 Exploits Discovery Corp.,NFLD,Mining,,CSE Composite,CAD,2019-06-03 04:00:00,https://thecse.com/en/listings/mining/exploits-discovery-corp
@@ -259,7 +257,7 @@ Fiore Cannabis Ltd.,FIOR,Life Sciences,US Cannabis,CSE Composite,CAD,2015-09-01 
 First Energy Metals Limited,FE,Mining,,CSE Composite,CAD,2019-03-01 05:00:00,https://thecse.com/en/listings/mining/first-energy-metals-limited
 First Growth Funds Limited,FGFL,Diversified Industries,,,CAD,2020-06-29 04:00:00,https://thecse.com/en/listings/diversified-industries/first-growth-funds-limited
 First Responder Technologies Inc.,WPN,Technology,,,CAD,2020-01-16 05:00:00,https://thecse.com/en/listings/technology/first-responder-technologies-inc
-First Tellurium Corp. (formerly was DHC/Deer Horn Capital Inc. until 2021-05-27),FTEL,Mining,,CSE Composite,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/mining/first-tellurium-corp-(formerly-was-dhc/deer-horn-capital-inc-until-2021-05-27)
+First Tellurium Corp.,FTEL,Mining,,CSE Composite,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/mining/first-tellurium-corp
 First Uranium Resources Ltd (formerly was KMI/Karam Minerals Inc. until 2022-01-13),URNM,Mining,,CSE Composite,CAD,2019-04-25 04:00:00,https://thecse.com/en/listings/mining/first-uranium-resources-ltd-(formerly-was-kmi/karam-minerals-inc-until-2022-01-13)
 Flow Metals Corp.,FWM,Mining,,,CAD,2020-06-22 04:00:00,https://thecse.com/en/listings/mining/flow-metals-corp
 Flower One Holdings Inc.,FONE,Life Sciences,US Cannabis,CSE Composite,CAD,2018-10-10 04:00:00,https://thecse.com/en/listings/life-sciences/flower-one-holdings-inc
@@ -274,6 +272,7 @@ Four Nines Gold Inc.,FNAU,Mining,,CSE Composite,CAD,2017-08-31 04:00:00,https://
 Fox River Resources Corporation,FOX,Mining,,CSE Composite,CAD,2016-02-05 05:00:00,https://thecse.com/en/listings/mining/fox-river-resources-corporation
 FSD Pharma Inc. Subordinate Voting Shares,HUGE,Life Sciences,,CSE Composite,CAD,2018-05-29 04:00:00,https://thecse.com/en/listings/life-sciences/fsd-pharma-inc-subordinate-voting-shares
 Future Farm Technologies Inc.,FFT,Technology,Cannabis,,CAD,2016-03-07 05:00:00,https://thecse.com/en/listings/technology/future-farm-technologies-inc
+Future Fuel Corporation,AMPS,Mining,,,CAD,2022-05-26 04:00:00,https://thecse.com/en/listings/mining/future-fuel-corporation
 G2 Technologies Corp,GTOO,Technology,,,CAD,2017-12-28 05:00:00,https://thecse.com/en/listings/technology/g2-technologies-corp
 GABY Inc.,GABY,Life Sciences,US Cannabis,CSE Composite,CAD,2021-04-23 04:00:00,https://thecse.com/en/listings/life-sciences/gaby-inc
 Gaia Grow Corp.,GAIA,Life Sciences,Cannabis,CSE Composite,CAD,2020-04-16 04:00:00,https://thecse.com/en/listings/life-sciences/gaia-grow-corp
@@ -422,6 +421,8 @@ Luxxfolio Holdings Inc.,LUXX,Technology,Blockchain,CSE Composite,CAD,2019-05-06 
 Lynx Global Digital Finance Corporation,LYNX,Technology,,,CAD,2018-11-21 05:00:00,https://thecse.com/en/listings/technology/lynx-global-digital-finance-corporation
 Madi Minerals Ltd.,MADI,Mining,,,CAD,2022-04-12 04:00:00,https://thecse.com/en/listings/mining/madi-minerals-ltd
 Madison Metals Inc.,GREN,Mining,,,CAD,2022-05-13 04:00:00,https://thecse.com/en/listings/mining/madison-metals-inc
+Majuba Hill Copper Corp. (formerly was BBR/Bam Bam Resources Corp. until 2022-05-30),JUBA,Mining,,CSE Composite,CAD,2017-12-20 05:00:00,https://thecse.com/en/listings/mining/majuba-hill-copper-corp-(formerly-was-bbr/bam-bam-resources-corp-until-2022-05-30)
+Majuba Hill Copper Corp. 14SEP2023 Warrants (formerly was BBR.WT/Bam Bam Resources Corp. 14SEP2023 Warrants until 2022-05-30),JUBA.WT,Mining,,,CAD,2021-02-19 05:00:00,https://thecse.com/en/listings/mining/majuba-hill-copper-corp-14sep2023-warrants-(formerly-was-bbrwt/bam-bam-resources-corp-14sep2023-warrants-until-2022-05-30)
 Makara Mining Corp.,MAKA,Mining,,,CAD,2020-05-04 04:00:00,https://thecse.com/en/listings/mining/makara-mining-corp
 ManifestSeven Holdings Corporation,MSVN,Life Sciences,US Cannabis,,CAD,2020-09-30 04:00:00,https://thecse.com/en/listings/life-sciences/manifestseven-holdings-corporation
 Manning Ventures Inc.,MANN,Mining,,CSE Composite,CAD,2019-10-25 04:00:00,https://thecse.com/en/listings/mining/manning-ventures-inc
@@ -675,7 +676,7 @@ TAAT Global Alternatives Inc.,TAAT,Life Sciences,Cannabis,CSE25,CAD,2020-06-22 0
 Tactical Resources Corp.,RARE,Mining,,,CAD,2022-03-14 04:00:00,https://thecse.com/en/listings/mining/tactical-resources-corp
 Talent Infinity Resource Developments Inc.,TICO,Mining,,,CAD,2022-04-29 04:00:00,https://thecse.com/en/listings/mining/talent-infinity-resource-developments-inc
 Talmora Diamond Inc.,TAI,Mining,,,CAD,2015-09-24 04:00:00,https://thecse.com/en/listings/mining/talmora-diamond-inc
-Tantalex Resources Corporation,TTX,Mining,,CSE Composite,CAD,2015-11-10 05:00:00,https://thecse.com/en/listings/mining/tantalex-resources-corporation
+Tantalex Lithium Resources Corporation (formerly was TTX/Tantalex Resources Corporation until 2022-05-25),TTX,Mining,,CSE Composite,CAD,2015-11-10 05:00:00,https://thecse.com/en/listings/mining/tantalex-lithium-resources-corporation-(formerly-was-ttx/tantalex-resources-corporation-until-2022-05-25)
 Tarachi Gold Corp.,TRG,Mining,,CSE Composite,CAD,2018-10-25 04:00:00,https://thecse.com/en/listings/mining/tarachi-gold-corp
 Tartisan Nickel Corp.,TN,Mining,,CSE Composite,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/mining/tartisan-nickel-corp
 Telecure Technologies Inc.,TELE,Technology,,CSE Composite,CAD,2021-08-31 04:00:00,https://thecse.com/en/listings/technology/telecure-technologies-inc
