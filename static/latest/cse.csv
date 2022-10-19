@@ -43,7 +43,7 @@ Ameriwest Lithium Inc.,AWLI,Mining,,CSE Composite,CAD,2020-07-24 04:00:00,https:
 AmmPower Corp,AMMP,Technology,,CSE Composite,CAD,2020-10-06 04:00:00,https://thecse.com/en/listings/technology/ammpower-corp
 AMPD Ventures Inc.,AMPD,Technology,,CSE Composite,CAD,2019-10-24 04:00:00,https://thecse.com/en/listings/technology/ampd-ventures-inc
 ApartmentLove Inc.,APLV,Technology,,CSE Composite,CAD,2021-08-30 04:00:00,https://thecse.com/en/listings/technology/apartmentlove-inc
-Appia Rare Earths & Uranium Corp (formerly was API/Appia Energy Corp. until 2021-10-14),API,Mining,,CSE Composite,CAD,2015-09-14 04:00:00,https://thecse.com/en/listings/mining/appia-rare-earths-&-uranium-corp-(formerly-was-api/appia-energy-corp-until-2021-10-14)
+Appia Rare Earths & Uranium Corp,API,Mining,,CSE Composite,CAD,2015-09-14 04:00:00,https://thecse.com/en/listings/mining/appia-rare-earths-&-uranium-corp
 Aquarius AI Inc.,AQUA,Technology,,,CAD,2021-07-15 04:00:00,https://thecse.com/en/listings/technology/aquarius-ai-inc
 Aquarius Surgical Technologies Inc.,ASTI,Technology,,,CAD,2017-06-21 04:00:00,https://thecse.com/en/listings/technology/aquarius-surgical-technologies-inc
 Archer Exploration Corp,RCHR,Mining,,,CAD,2021-02-11 05:00:00,https://thecse.com/en/listings/mining/archer-exploration-corp
@@ -164,7 +164,7 @@ CDN Maverick Capital Corp,CDN,Mining,,,CAD,2019-11-04 05:00:00,https://thecse.co
 CENTR Brands Corp.,CNTR,Life Sciences,,CSE Composite,CAD,2019-04-03 04:00:00,https://thecse.com/en/listings/life-sciences/centr-brands-corp
 Cerro de Pasco Resources Inc.,CDPR,Mining,,CSE Composite,CAD,2018-10-18 04:00:00,https://thecse.com/en/listings/mining/cerro-de-pasco-resources-inc
 Cerro Grande Mining Corporation,CEG,Mining,,CSE Composite,CAD,2015-09-02 04:00:00,https://thecse.com/en/listings/mining/cerro-grande-mining-corporation
-Certive Solutions Inc.,CBP,Technology,,CSE Composite,CAD,2015-09-02 04:00:00,https://thecse.com/en/listings/technology/certive-solutions-inc
+Certive Solutions Inc.,CBP,Technology,,,CAD,2015-09-02 04:00:00,https://thecse.com/en/listings/technology/certive-solutions-inc
 Chalice Brands Ltd.,CHAL,Diversified Industries,US Cannabis,,CAD,2015-10-14 04:00:00,https://thecse.com/en/listings/diversified-industries/chalice-brands-ltd
 Chemesis International Inc.,CSI,Life Sciences,,CSE Composite,CAD,2018-07-18 04:00:00,https://thecse.com/en/listings/life-sciences/chemesis-international-inc
 Chemistree Technology Inc.,CHM,Technology,US Cannabis,,CAD,2015-10-01 04:00:00,https://thecse.com/en/listings/technology/chemistree-technology-inc
@@ -278,7 +278,6 @@ Forte Minerals Corp,CUAU,Mining,,CSE Composite,CAD,2022-01-25 05:00:00,https://t
 Forty Pillars Mining Corp.,PLLR,Mining,,,CAD,2021-05-31 04:00:00,https://thecse.com/en/listings/mining/forty-pillars-mining-corp
 Four Nines Gold Inc.,FNAU,Mining,,CSE Composite,CAD,2017-08-31 04:00:00,https://thecse.com/en/listings/mining/four-nines-gold-inc
 Fox River Resources Corporation,FOX,Mining,,CSE Composite,CAD,2016-02-05 05:00:00,https://thecse.com/en/listings/mining/fox-river-resources-corporation
-Freedom Battery Metals Inc.,FBAT,Mining,,,CAD,2022-08-03 04:00:00,https://thecse.com/en/listings/mining/freedom-battery-metals-inc
 FSD Pharma Inc. Subordinate Voting Shares,HUGE,Life Sciences,,CSE Composite,CAD,2018-05-29 04:00:00,https://thecse.com/en/listings/life-sciences/fsd-pharma-inc-subordinate-voting-shares
 G2 Energy Corp.,GTOO,Oil and Gas,,,CAD,2022-06-14 04:00:00,https://thecse.com/en/listings/oil-and-gas/g2-energy-corp
 GABY Inc.,GABY,Life Sciences,US Cannabis,CSE Composite,CAD,2021-04-23 04:00:00,https://thecse.com/en/listings/life-sciences/gaby-inc
@@ -398,7 +397,7 @@ Jushi Holdings Inc.10% 15JAN23,JUSH.DB.U,Life Sciences,US Cannabis,,USD,2020-12-
 Juva Life Inc.,JUVA,Life Sciences,US Cannabis,CSE Composite,CAD,2020-11-17 05:00:00,https://thecse.com/en/listings/life-sciences/juva-life-inc
 Kings Entertainment Group Inc.,JKPT,Diversified Industries,,,CAD,2022-01-24 05:00:00,https://thecse.com/en/listings/diversified-industries/kings-entertainment-group-inc
 Kingsview Minerals Ltd.,KVM,Mining,,CSE Composite,CAD,2022-02-24 05:00:00,https://thecse.com/en/listings/mining/kingsview-minerals-ltd
-Koios Beverage Corp. (formerly was KBEV/Koios Beverage Corp. until 2021-10-15),FIT,Life Sciences,,,CAD,2018-05-01 04:00:00,https://thecse.com/en/listings/life-sciences/koios-beverage-corp-(formerly-was-kbev/koios-beverage-corp-until-2021-10-15)
+Koios Beverage Corp.,FIT,Life Sciences,,,CAD,2018-05-01 04:00:00,https://thecse.com/en/listings/life-sciences/koios-beverage-corp
 Komo Plant Based Foods Inc.,YUM,Life Sciences,,,CAD,2021-06-08 04:00:00,https://thecse.com/en/listings/life-sciences/komo-plant-based-foods-inc
 Kraken Energy Corp. (formerly was IVOR/Ivor Exploration Inc. until 2022-05-10),UUSA,Mining,,CSE Composite,CAD,2020-06-30 04:00:00,https://thecse.com/en/listings/mining/kraken-energy-corp-(formerly-was-ivor/ivor-exploration-inc-until-2022-05-10)
 Kuya Silver Corporation,KUYA,Mining,,CSE Composite,CAD,2020-10-07 04:00:00,https://thecse.com/en/listings/mining/kuya-silver-corporation
@@ -610,6 +609,7 @@ Red Light Holland Corp. 24FEB2024 Warrants (formerly was TRIP.WT.A/Red Light Hol
 Red Light Holland Corp. Warrants,TRIP.WT,Life Sciences,,,CAD,2021-01-28 05:00:00,https://thecse.com/en/listings/life-sciences/red-light-holland-corp-warrants
 Red Metal Resources Ltd.,RMES,Mining,,CSE Composite,CAD,2021-11-25 05:00:00,https://thecse.com/en/listings/mining/red-metal-resources-ltd
 Red White & Bloom Brands Inc.,RWB,Life Sciences,US Cannabis,CSE Composite,CAD,2020-06-05 04:00:00,https://thecse.com/en/listings/life-sciences/red-white-&-bloom-brands-inc
+Reflex Advanced Materials Corp. (formerly was FBAT/Freedom Battery Metals Inc. until 2022-10-13),RFLX,Mining,,,CAD,2022-08-03 04:00:00,https://thecse.com/en/listings/mining/reflex-advanced-materials-corp-(formerly-was-fbat/freedom-battery-metals-inc-until-2022-10-13)
 Relevant Gold Corp.,RGC,Mining,,,CAD,2022-08-11 04:00:00,https://thecse.com/en/listings/mining/relevant-gold-corp
 Renforth Resources Inc.,RFR,Mining,,CSE Composite,CAD,2015-10-20 04:00:00,https://thecse.com/en/listings/mining/renforth-resources-inc
 Reservoir Capital Corp.,REO,Diversified Industries,,,CAD,2018-09-28 04:00:00,https://thecse.com/en/listings/diversified-industries/reservoir-capital-corp
@@ -677,6 +677,7 @@ Squatex Energy and Ressources Inc.,SQX,Oil and Gas,,,CAD,2017-04-03 04:00:00,htt
 St-Georges Eco-Mining Corp.,SX,Mining,,CSE Composite,CAD,2015-09-11 04:00:00,https://thecse.com/en/listings/mining/st-georges-eco-mining-corp
 St. Anthony Gold Corp.,STAG,Diversified Industries,,,CAD,2015-09-08 04:00:00,https://thecse.com/en/listings/diversified-industries/st-anthony-gold-corp
 Star Navigation Systems Group Ltd.,SNA,Technology,,CSE Composite,CAD,2017-04-07 04:00:00,https://thecse.com/en/listings/technology/star-navigation-systems-group-ltd
+Starmet Ventures Inc.,STAR,Mining,,,CAD,2022-10-19 04:00:00,https://thecse.com/en/listings/mining/starmet-ventures-inc
 Starrex International Ltd.,STX,Diversified Industries,,CSE Composite,CAD,2015-09-18 04:00:00,https://thecse.com/en/listings/diversified-industries/starrex-international-ltd
 StateHouse Holdings Inc (formerly was HBOR/Harborside Inc. until 2022-07-22),STHZ,Life Sciences,US Cannabis,CSE Composite,CAD,2019-06-10 04:00:00,https://thecse.com/en/listings/life-sciences/statehouse-holdings-inc-(formerly-was-hbor/harborside-inc-until-2022-07-22)
 Steadright Critical Minerals Inc.,SCM,Mining,,,CAD,2022-10-06 04:00:00,https://thecse.com/en/listings/mining/steadright-critical-minerals-inc
@@ -786,7 +787,7 @@ Way of Will Inc.,WAY,Diversified Industries,,,CAD,2022-01-31 05:00:00,https://th
 Wedgemount Resources Corp,WDGY,Mining,,,CAD,2021-05-21 04:00:00,https://thecse.com/en/listings/mining/wedgemount-resources-corp
 Wellteq Digital Health Inc,WTEQ,Technology,,,CAD,2021-03-23 04:00:00,https://thecse.com/en/listings/technology/wellteq-digital-health-inc
 Wesana Health Holdings Inc.,WESA,Life Sciences,,,CAD,2021-05-10 04:00:00,https://thecse.com/en/listings/life-sciences/wesana-health-holdings-inc
-West Island Brands Inc (formerly was MMJ/Matica Enterprises Inc. until 2021-10-19),WIB,Life Sciences,Cannabis,,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/life-sciences/west-island-brands-inc-(formerly-was-mmj/matica-enterprises-inc-until-2021-10-19)
+West Island Brands Inc,WIB,Life Sciences,Cannabis,,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/life-sciences/west-island-brands-inc
 West Mining Corp.,WEST,Mining,,,CAD,2020-12-07 05:00:00,https://thecse.com/en/listings/mining/west-mining-corp
 West Oak Gold Corp.,WO,Mining,,,CAD,2021-08-16 04:00:00,https://thecse.com/en/listings/mining/west-oak-gold-corp
 West Red Lake Gold Mines Inc.,RLG,Mining,,CSE Composite,CAD,2015-10-15 04:00:00,https://thecse.com/en/listings/mining/west-red-lake-gold-mines-inc
@@ -797,7 +798,7 @@ Winston Gold Corp.,WGC,Mining,,CSE Composite,CAD,2016-03-29 04:00:00,https://the
 World Class Extractions Inc.,PUMP,Life Sciences,,CSE Composite,CAD,2019-03-21 04:00:00,https://thecse.com/en/listings/life-sciences/world-class-extractions-inc
 WPD Pharmaceuticals Inc.,WBIO,Life Sciences,,,CAD,2019-12-27 05:00:00,https://thecse.com/en/listings/life-sciences/wpd-pharmaceuticals-inc
 WSM Ventures Corp.,WSM.X,Diversified Industries,Blockchain,,CAD,2015-12-01 05:00:00,https://thecse.com/en/listings/diversified-industries/wsm-ventures-corp
-X1 Esports and Entertainment Ltd.,XONE,Technology,,,CAD,2022-06-30 04:00:00,https://thecse.com/en/listings/technology/x1-esports-and-entertainment-ltd
+X1 Entertainment Group Inc. (formerly was XONE/X1 Esports and Entertainment Ltd. until 2022-10-18),XONE,Technology,,,CAD,2022-06-30 04:00:00,https://thecse.com/en/listings/technology/x1-entertainment-group-inc-(formerly-was-xone/x1-esports-and-entertainment-ltd-until-2022-10-18)
 Xebra Brands Ltd,XBRA,Life Sciences,,CSE Composite,CAD,2021-10-18 04:00:00,https://thecse.com/en/listings/life-sciences/xebra-brands-ltd
 Xigem Technologies Corporation,XIGM,Technology,,CSE Composite,CAD,2021-03-15 04:00:00,https://thecse.com/en/listings/technology/xigem-technologies-corporation
 XPhyto Therapeutics Corp.,XPHY,Life Sciences,,CSE Composite,CAD,2019-07-31 04:00:00,https://thecse.com/en/listings/life-sciences/xphyto-therapeutics-corp
