@@ -23,7 +23,7 @@ jobs:
     - name: Setup Python And make tickers
       uses: actions/setup-python@v2
       with:
-        python-version: '3.8'
+        python-version: '3.7'
     - run: |
         pip3 install -r scripts/requirements.txt
         python scripts/get_ticker_list.py
