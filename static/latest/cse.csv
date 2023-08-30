@@ -38,7 +38,7 @@ American Copper Development Corporation,ACDX,Mining,,CSE Composite,CAD,2022-08-3
 American Critical Elements Inc. (formerly was RZR/Razore Rock Resources Inc. until 2022-09-22),ACRE,Mining,,,CAD,2015-09-17 04:00:00,https://thecse.com/en/listings/mining/american-critical-elements-inc-(formerly-was-rzr/razore-rock-resources-inc-until-2022-09-22)
 American Future Fuel Corporation,AMPS,Mining,,CSE Composite,CAD,2022-05-26 04:00:00,https://thecse.com/en/listings/mining/american-future-fuel-corporation
 American Pacific Mining Corp.,USGD,Mining,,CSE Composite,CAD,2018-03-08 05:00:00,https://thecse.com/en/listings/mining/american-pacific-mining-corp
-American Potash Corp. (formerly was NTM/New Tech Minerals Corp. until 2022-08-30),KCL,Mining,,CSE Composite,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/mining/american-potash-corp-(formerly-was-ntm/new-tech-minerals-corp-until-2022-08-30)
+American Potash Corp.,KCL,Mining,,CSE Composite,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/mining/american-potash-corp
 Ameriwest Lithium Inc.,AWLI,Mining,,CSE Composite,CAD,2020-07-24 04:00:00,https://thecse.com/en/listings/mining/ameriwest-lithium-inc
 AmmPower Corp,AMMP,Technology,,CSE Composite,CAD,2020-10-06 04:00:00,https://thecse.com/en/listings/technology/ammpower-corp
 AMPD Ventures Inc.,AMPD,Technology,,,CAD,2019-10-24 04:00:00,https://thecse.com/en/listings/technology/ampd-ventures-inc
@@ -137,7 +137,7 @@ BZAM Ltd. (formerly was TGOD/The Green Organic Dutchman Holdings Ltd. until 2023
 BZAM Ltd. 23OCT2025 Warrants (formerly was TGOD.WA/The Green Organic Dutchman Holdings Ltd 23OCT2025 Warrants until 2023-02-22),BZAM.WA,Life Sciences,,,CAD,2021-09-13 04:00:00,https://thecse.com/en/listings/life-sciences/bzam-ltd-23oct2025-warrants-(formerly-was-tgodwa/the-green-organic-dutchman-holdings-ltd-23oct2025-warrants-until-2023-02-22)
 BZAM Ltd.10DEC2025 Warrants (formerly was TGOD.WB/The Green Organic Dutchman Holdings Ltd 10DEC2025 Warrants until 2023-02-22),BZAM.WB,Life Sciences,,,CAD,2021-09-13 04:00:00,https://thecse.com/en/listings/life-sciences/bzam-ltd10dec2025-warrants-(formerly-was-tgodwb/the-green-organic-dutchman-holdings-ltd-10dec2025-warrants-until-2023-02-22)
 BZAM Ltd.12JUNE2024 Warrants (formerly was TGOD.WR/The Green Organic Dutchman Holdings Ltd. Wts. until 2023-02-22),BZAM.WR,Life Sciences,,,CAD,2021-09-13 04:00:00,https://thecse.com/en/listings/life-sciences/bzam-ltd12june2024-warrants-(formerly-was-tgodwr/the-green-organic-dutchman-holdings-ltd-wts-until-2023-02-22)
-C21 Investments Inc.,CXXI,Life Sciences,US Cannabis,,CAD,2018-06-18 04:00:00,https://thecse.com/en/listings/life-sciences/c21-investments-inc
+C21 Investments Inc.,CXXI,Life Sciences,"Cannabis, US Cannabis",,CAD,2018-06-18 04:00:00,https://thecse.com/en/listings/life-sciences/c21-investments-inc
 C2C Gold Corp,CTOC,Mining,,CSE Composite,CAD,2015-09-02 04:00:00,https://thecse.com/en/listings/mining/c2c-gold-corp
 Canadian Copper Inc.,CCI,Mining,,CSE Composite,CAD,2022-07-26 04:00:00,https://thecse.com/en/listings/mining/canadian-copper-inc
 Canadian GoldCamps Corp.,CAMP,Mining,,,CAD,2016-08-05 04:00:00,https://thecse.com/en/listings/mining/canadian-goldcamps-corp
@@ -471,7 +471,7 @@ Metalite Resources Inc. (formerly was ROO/RooGold Inc. until 2023-03-24),METL,Mi
 Metallica Metals Corp,MM,Mining,,CSE Composite,CAD,2020-06-16 04:00:00,https://thecse.com/en/listings/mining/metallica-metals-corp
 Metalo Manufacturing Inc.,MMI,Diversified Industries,,,CAD,2015-12-17 05:00:00,https://thecse.com/en/listings/diversified-industries/metalo-manufacturing-inc
 Metamaterial Exchangeco Inc,MMAX,Technology,,CSE Composite,CAD,2021-06-29 04:00:00,https://thecse.com/en/listings/technology/metamaterial-exchangeco-inc
-"MetaWorks Platforms, Inc. (formerly was MEET/MetaWorks Platforms, Inc. until 2022-08-24)",MWRK,Technology,,CSE Composite,CAD,2021-04-28 04:00:00,"https://thecse.com/en/listings/technology/metaworks-platforms,-inc-(formerly-was-meet/metaworks-platforms,-inc-until-2022-08-24)"
+"MetaWorks Platforms, Inc.",MWRK,Technology,,CSE Composite,CAD,2021-04-28 04:00:00,"https://thecse.com/en/listings/technology/metaworks-platforms,-inc"
 Miata Metals Corp.,MMET,Mining,,,CAD,2023-07-20 04:00:00,https://thecse.com/en/listings/mining/miata-metals-corp
 Mich Resources Ltd (formerly was MICH/Mich Resources Ltd until 2022-11-24),MICH.X,Mining,,,CAD,2019-06-19 04:00:00,https://thecse.com/en/listings/mining/mich-resources-ltd-(formerly-was-mich/mich-resources-ltd-until-2022-11-24)
 Micromem Technologies Inc.,MRM,Technology,,CSE Composite,CAD,2015-09-02 04:00:00,https://thecse.com/en/listings/technology/micromem-technologies-inc
@@ -779,7 +779,7 @@ Urbana Corporation A NV,URB.A,Diversified Industries,,CSE25,CAD,2014-01-09 05:00
 Uriel Gas Holdings Corp.,UGH,Oil and Gas,,CSE Composite,CAD,2023-01-11 05:00:00,https://thecse.com/en/listings/oil-and-gas/uriel-gas-holdings-corp
 Valdor Technology International Inc.,VTI,Technology,,,CAD,2021-06-25 04:00:00,https://thecse.com/en/listings/technology/valdor-technology-international-inc
 Vegano Foods Inc.,VAGN,Life Sciences,,,CAD,2022-02-15 05:00:00,https://thecse.com/en/listings/life-sciences/vegano-foods-inc
-Veji Holdings Ltd. (formerly was VEJI/Vejii Holdings Ltd until 2022-08-25),VEJI,Technology,,,CAD,2021-11-10 05:00:00,https://thecse.com/en/listings/technology/veji-holdings-ltd-(formerly-was-veji/vejii-holdings-ltd-until-2022-08-25)
+Veji Holdings Ltd.,VEJI,Technology,,,CAD,2021-11-10 05:00:00,https://thecse.com/en/listings/technology/veji-holdings-ltd
 Verano Holdings Corp.,VRNO,Life Sciences,US Cannabis,CSE25,CAD,2021-02-17 05:00:00,https://thecse.com/en/listings/life-sciences/verano-holdings-corp
 Vertical Peak Holdings Inc.,MJMJ,Life Sciences,US Cannabis,,CAD,2015-09-01 04:00:00,https://thecse.com/en/listings/life-sciences/vertical-peak-holdings-inc
 Vext Science Inc. 02NOV2023 Warrants,VEXT.WT,Life Sciences,US Cannabis,,CAD,2020-11-02 05:00:00,https://thecse.com/en/listings/life-sciences/vext-science-inc-02nov2023-warrants
@@ -799,7 +799,6 @@ Voyageur Mineral Explorers Corp.,VOY,Mining,,CSE Composite,CAD,2015-09-04 04:00:
 VSBLTY Groupe Technologies Corp Warrrants,VSBY.WT.A,Technology,,,CAD,2021-06-30 04:00:00,https://thecse.com/en/listings/technology/vsblty-groupe-technologies-corp-warrrants
 VSBLTY Groupe Technologies Corp.,VSBY,Technology,Blockchain,CSE Composite,CAD,2019-02-27 05:00:00,https://thecse.com/en/listings/technology/vsblty-groupe-technologies-corp
 VSBLTY Groupe Technologies Corp. Warrants B,VSBY.WT.B,Technology,,,CAD,2022-07-28 04:00:00,https://thecse.com/en/listings/technology/vsblty-groupe-technologies-corp-warrants-b
-VSBLTY Groupe Technologies Corp. Wts.,VSBY.WT,Technology,,,CAD,2020-08-28 04:00:00,https://thecse.com/en/listings/technology/vsblty-groupe-technologies-corp-wts
 Waraba Gold Limited,WBGD,Mining,,CSE Composite,CAD,2018-10-11 04:00:00,https://thecse.com/en/listings/mining/waraba-gold-limited
 Waskahigan Oil & Gas Corp.,WOGC,Oil and Gas,,,CAD,2022-07-28 04:00:00,https://thecse.com/en/listings/oil-and-gas/waskahigan-oil-&-gas-corp
 Way of Will Inc.,WAY,Diversified Industries,,,CAD,2022-01-31 05:00:00,https://thecse.com/en/listings/diversified-industries/way-of-will-inc
